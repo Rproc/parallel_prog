@@ -1,0 +1,24 @@
+Tam = 64, num threads = 4
+KDE Open-MP executado em 1.218324 segundos
+KDE Open-MP executado em 4.863850 segundos (time C)
+Tam = 64, num threads = 8
+KDE Open-MP executado em 0.712317 segundos
+KDE Open-MP executado em 5.570845 segundos (time C)
+Tam = 128, num threads = 4
+KDE Open-MP executado em 18.717012 segundos
+KDE Open-MP executado em 74.371986 segundos (time C)
+Tam = 128, num threads = 8
+KDE Open-MP executado em 11.509841 segundos
+KDE Open-MP executado em 90.212130 segundos (time C)
+Tam = 256, num threads = 4
+KDE Open-MP executado em 297.510339 segundos
+KDE Open-MP executado em 1185.559096 segundos (time C)
+Tam = 256, num threads = 8
+KDE Open-MP executado em 182.247902 segundos
+KDE Open-MP executado em 1448.563945 segundos (time C)
+Tam = 512, num threads = 4
+KDE Open-MP executado em 4769.529028 segundos
+KDE Open-MP executado em 19030.570152 segundos (time C)
+Tam = 512, num threads = 8
+KDE Open-MP executado em 2883.028776 segundos
+KDE Open-MP executado em 22884.861791 segundos (time C)
